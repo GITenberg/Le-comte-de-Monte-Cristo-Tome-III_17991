@@ -11,7 +11,7 @@ Title: Le comte de Monte-Cristo, Tome III
 Author: Alexandre Dumas
 
 Release Date: March 15, 2006 [EBook #17991]
-[Last updated: May 26, 2011]
+[Last updated: January 20, 2018]
 
 Language: French
 
@@ -7062,7 +7062,7 @@ bien entendu.
 
 --Et il peut me donner des renseignements?
 
---Précieux. Il était dans l'Inde en même temps que moi.
+--Précieux. Il était dans l'Inde en même temps que Zaccone.
 
 --Savez-vous où il demeure?
 
@@ -7291,7 +7291,7 @@ et sa cicatrice pour retrouver les cheveux noirs, le teint mat et les
 dents de perles du comte de Monte-Cristo.
 
 Il est vrai que, de son côté, ce fut M. de Villefort, et non l'envoyé de
-M. le préfet de Police, qui rendra chez M. de Villefort.
+M. le préfet de Police, qui rentra chez M. de Villefort.
 
 Le procureur du roi était un peu tranquillisé par cette double visite,
 qui, au reste, ne lui avait rien appris de rassurant, mais qui ne lui
@@ -7558,7 +7558,7 @@ l'habitude de la pensée utile avait donné à ses traits, à l'expression
 de son visage et au plus insignifiant de ses gestes une souplesse et une
 fermeté incomparables.
 
-Et puis notre monde parisien est si étrange, qu'il n'eût peut être point
+Et puis notre monde parisien est si étrange, qu'il n'eût peut-être point
 fait attention à tout cela, s'il n'y eût eu sous tout cela une
 mystérieuse histoire dorée par une immense fortune.
 
@@ -7574,7 +7574,7 @@ Sans doute elle crut que le comte allait lui parler; sans doute, de son
 côté, le comte crut qu'elle allait lui adresser la parole; mais des deux
 côtés ils restèrent muets, tant une banalité leur semblait sans doute
 indigne de tous deux; et, après un échange de saluts, Monte-Cristo se
-dirigea vers Albert, qui venait à lui la main ouverte.»
+dirigea vers Albert, qui venait à lui la main ouverte.
 
 «Vous avez vu ma mère? Demanda Albert.
 
@@ -12380,7 +12380,7 @@ allait lui faire, il lui dit en grec:
      [Grec: Mot à mot: «De ton père le sort, mais pas le nom du traître,
      ni la trahison, raconte-nous.»]
 
- Haydée poussa un long soupir, et un nuage sombre passa sur son
+Haydée poussa un long soupir, et un nuage sombre passa sur son
 front si pur.
 
 «Que lui dites-vous? demanda tout bas Morcerf.
@@ -13623,7 +13623,7 @@ Janina, qui a été prisé en 1822 ou 1823, je crois?
 --Voilà justement où est la perfidie: on a laissé le temps passer
 là-dessus, puis aujourd'hui on revient sur des événements oubliés pour
 en faire sortir un scandale qui peut ternir une haute position. Eh bien,
-moi, héritier du nom de mon père, je ne veux même pas que sur ce nom
+moi, héritier du nom de mon père, je ne veux pas même que sur ce nom
 flotte l'ombre d'un doute. Je vais envoyer à Beauchamp, dont le journal
 a publié cette note, deux témoins, et il la rétractera.
 
@@ -14768,7 +14768,7 @@ LXXX
 L'accusation.
 
 
-M d'Avrigny eut bientôt rappelé à lui le magistrat, qui semblait un
+M.s d'Avrigny eut bientôt rappelé à lui le magistrat, qui semblait un
 second cadavre dans cette chambre funèbre.
 
 «Oh! la mort est dans ma maison! s'écria Villefort.
@@ -17581,7 +17581,7 @@ FIN DU TOME TROISIÈME.
 
 
 
-End of the Project Gutenberg EBook of Le comte de Monte-Cristo, Tome III, by 
+End of the Project Gutenberg EBook of Le comte de Monte-Cristo, Tome III, by
 Alexandre Dumas
 
 *** END OF THIS PROJECT GUTENBERG EBOOK LE COMTE DE MONTE-CRISTO, TOME III ***
